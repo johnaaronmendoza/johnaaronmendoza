@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Aaron</h1>
 <h3 align="center">A passionate Student Studying Computer Science</h3>
 
-- 🔭 I’m currently working on **nteractive, web-based storytelling game for the Singapore Cancer Society using Vite, Tailwind CSS, and TypeScript.**
+- 🔭 I’m currently working on an interactive, web-based storytelling game for the Singapore Cancer Society using Vite, Tailwind CSS, and TypeScript.**
 
 - 🌱 I’m currently learning **the fundamentals of Deep Learning using PyTorch, and Jetpack Compose for mobile development.**
 
