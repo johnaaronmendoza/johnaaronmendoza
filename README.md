@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the fundamentals of Deep Learning using PyTorch, and Jetpack Compose for mobile development.**
 
-- 👯 I’m looking to collaborate on **rojects that bridge the gap between physical engineering operations and digital tech solutions, like enterprise software rollouts.**
+- 👯 I’m looking to collaborate on **Projects that bridge the gap between physical engineering operations and digital tech solutions, like enterprise software rollouts.**
 
 - 🤝 I’m looking for help with **deepening my knowledge of cloud infrastructure (AWS) and advanced data visualization techniques.**
 
